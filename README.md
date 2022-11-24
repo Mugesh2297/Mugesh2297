@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS , Express JS**
 
-- 👨‍💻 All of my projects are available at [https://portfoliomugeshk.netlify.app/](https://portfoliomugeshk.netlify.app/)
+- 👨‍💻 Look out my portfolio at [https://portfoliomugeshk.netlify.app/](https://portfoliomugeshk.netlify.app/)
 
 - 💬 Ask me about **React js, Node js**
 
